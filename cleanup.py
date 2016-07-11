@@ -3,7 +3,7 @@ import json
 import calendar
 from datetime import datetime, timedelta
 
-_token = "xoxp-4856680877-5172261992-49830011254-7a6c3bcbe0"
+_token = "<YOUR_TOKEN_HERE>"
 _domain = "nashdev"
 
 if __name__ == '__main__':
